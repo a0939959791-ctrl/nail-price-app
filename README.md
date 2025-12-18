@@ -1,1 +1,0 @@
-# nail-price-app
